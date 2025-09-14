@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Alteração na main
+=======
+Teste de merge e rebase
+>>>>>>> feature-tasks
